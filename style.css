@@ -151,4 +151,15 @@ a {
 }
 .compliment__text {
     color: white;
+    text-shadow: 0px 0px 3px black;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+    background-color: rgb(255, 47, 47);
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 3px black;
 }
